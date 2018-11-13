@@ -1,0 +1,11 @@
+.gradle
+/build/
+
+!gradle-wrapper.jar
+
+# Cache of project
+.gradletasknamecache
+
+/out/
+/.idea/
+# !/.idea/codeStyles
